@@ -66,3 +66,10 @@ using System.Security;
     //[assembly: AssemblyFileVersion("4.5.0.0")]
 #endif
 [assembly: AllowPartiallyTrustedCallers]
+[assembly: AssemblyTitle("EPPlus")]
+[assembly: AssemblyDescription("Create advanced Excel spreadsheets using .NE")]
+[assembly: AssemblyCompany("Jan Källman")]
+[assembly: AssemblyProduct("EPPlus")]
+[assembly: AssemblyCopyright("Jan Källman")]
+[assembly: AssemblyVersion("4.5.3.2")]
+[assembly: AssemblyFileVersion("4.5.3.2")]
