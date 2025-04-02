@@ -71,5 +71,5 @@ using System.Security;
 [assembly: AssemblyCompany("Jan Källman")]
 [assembly: AssemblyProduct("EPPlus")]
 [assembly: AssemblyCopyright("Jan Källman")]
-[assembly: AssemblyVersion("4.5.3.2")]
-[assembly: AssemblyFileVersion("4.5.3.2")]
+[assembly: AssemblyVersion("4.7.3.2")]
+[assembly: AssemblyFileVersion("4.7.3.2")]

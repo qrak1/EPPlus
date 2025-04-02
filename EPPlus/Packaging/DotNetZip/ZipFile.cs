@@ -1,3 +1,4 @@
+#define Core
 // ZipFile.cs
 //
 // Copyright (c) 2006-2010 Dino Chiesa

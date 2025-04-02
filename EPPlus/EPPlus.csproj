@@ -25,7 +25,7 @@
     <UpgradeBackupLocation>
     </UpgradeBackupLocation>
     <OldToolsVersion>3.5</OldToolsVersion>
-    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -51,7 +51,7 @@
     <OutputPath>bin\Debug\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
-    <WarningLevel>4</WarningLevel>
+    <WarningLevel>5</WarningLevel>
     <DocumentationFile>
     </DocumentationFile>
     <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
@@ -889,8 +889,7 @@
   </Target>
   -->
   <PropertyGroup>
-    <PostBuildEvent>XCOPY /Y /R "$(TargetDir)EPPlus.*" "d:\Projekty\mwSource\dll\"
-</PostBuildEvent>
+    <PostBuildEvent>XCOPY /Y /R "$(TargetDir)EPPlus.*" "d:\Projekty\mwSource\dll\EPPlus4Net\"</PostBuildEvent>
     <PreBuildEvent>
     </PreBuildEvent>
   </PropertyGroup>
