@@ -67,9 +67,9 @@ using System.Security;
 #endif
 [assembly: AllowPartiallyTrustedCallers]
 [assembly: AssemblyTitle("EPPlus")]
-[assembly: AssemblyDescription("Create advanced Excel spreadsheets using .NE")]
+[assembly: AssemblyDescription("Create Excel spreadsheets using .NE")]
 [assembly: AssemblyCompany("Jan Källman")]
-[assembly: AssemblyProduct("EPPlus")]
+[assembly: AssemblyProduct("EPPlus (mwise)")]
 [assembly: AssemblyCopyright("Jan Källman")]
 [assembly: AssemblyVersion("4.7.3.2")]
 [assembly: AssemblyFileVersion("4.7.3.2")]
